@@ -20,10 +20,7 @@ st.markdown(
     "<div class='title'> Telecom Churn Prediction Dashboard</div>",
     unsafe_allow_html=True
 )
-st.markdown(
-    "<div class='subtitle'>Power BI–Style ML Analytics | Glass Dark Theme</div>",
-    unsafe_allow_html=True
-)
+
 
 st.divider()
 
