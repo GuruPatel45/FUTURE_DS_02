@@ -1,5 +1,0 @@
-__pycache__/
-*.pyc
-.env
-model/churn_model.pkl
-.streamlit/
